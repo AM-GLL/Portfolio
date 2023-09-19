@@ -1,36 +1,10 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexgomezlopez.alexgomezlopez&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AM-GLL"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://github.com/alexgomezlopez/alexgomezlopez/raw/main/scott.gif"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋 it's Alex</h1>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexgomezlopez/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="alexgomezlopez" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="alexgomez.int@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-</div>
+<h1 align="center"> HOLA!👋 this is Antonio</h1>
 
 ###
 
@@ -38,7 +12,7 @@
 
 ###
 
-<p align="left">from barcelona<br><br>- 🔭 currently working as an officer in the spanish air force🚀🇪🇸<br>- 📚 hyped about machine learning <br>- ⚡ MsC @mbit data school (data science)<br><br>my philosophy is basically this, and this is something that I live by, and I always have, and I always will: <br><br>"Don't ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been, ever, for any reason whatsoever."</p>
+<p align="left">from barcelona<br><br>- I am currently working towards my PhD in healthy Aging with the university of Almería 🇪🇸<br>- My new passion --> Data Science <br>- ⚡ MsC @mbit data school (data science)<br><br>Develop a passion for learning. If you do, you will never cease to grow</p>
 
 ###
 
@@ -65,11 +39,5 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alexgomezlopez&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
