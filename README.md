@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">from barcelona<br><br>- I am currently working towards my PhD in healthy Aging with the university of Almería 🇪🇸<br>- My new passion --> Data Science <br>- ⚡ MsC @mbit data school (data science)<br><br>Develop a passion for learning. If you do, you will never cease to grow</p>
+<p align="left">I´m from Almería (Spain) and have lived in Oxford (UK) and Paris (France)✈️<br><br>- I am currently working towards my PhD in healthy Aging with the university of Almería 🇪🇸<br>- My new passion --> Data Science <br>- ⚡ MsC @mbit data school (data science)<br><br>Develop a passion for learning. If you do, you will never cease to grow</p>
 
 ###
 
